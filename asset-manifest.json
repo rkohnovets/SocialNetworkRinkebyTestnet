@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.19f53ce9.css",
-    "main.js": "/static/js/main.b521c4e8.js",
-    "index.html": "/index.html"
+    "main.css": "/SocialNetworkRinkebyTestnet/static/css/main.19f53ce9.css",
+    "main.js": "/SocialNetworkRinkebyTestnet/static/js/main.b521c4e8.js",
+    "index.html": "/SocialNetworkRinkebyTestnet/index.html"
   },
   "entrypoints": [
     "static/css/main.19f53ce9.css",
